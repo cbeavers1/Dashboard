@@ -1,1 +1,5 @@
-# Dashboard
+Writing maintainable, readable, and adaptable code involves using a pattern of vague but relevant ideas within the algorithm. Terms used should be relevant to the algorithm more so than the project that is currently using the code. This python module can be altered slightly to use a different database with the same CRUD methods. 
+
+I always approach a problem from the simplest aspect and initially focus on the organization of the data or information. This perspective can help develop a solution in a systems-thinking format or solving the simplest problems first and seeing how they work together. The best technique to use in future database creations would be pre-planning. Mapping out the architecture of a database before creation can save time and confusion. 
+
+Computer scientists study systems of computation and how to efficiently manage, store, use, and alter data or information. This specific project can help in identifying trends for a business through explicit data visualization and organization. Organized data can save time and money for a business by allowing for quick analysis of the data. 
